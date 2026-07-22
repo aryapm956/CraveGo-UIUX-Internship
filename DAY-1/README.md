@@ -67,7 +67,9 @@ User Experience focuses on how users interact with the application, ensuring tha
 
 # 🎨 Figma Project
 
-https://www.figma.com/design/Xm6W1KsO4vK8Qv0C0Cob9p/FOOD-DELIIVERY-APP?node-id=0-1&t=RV6fzQMzJceVVIyf-1
+🎨 Figma Project
+
+https://www.figma.com/design/CfKcsY4qO6kabIX1WZ27nm/Cravego_UIUX_project?node-id=0-1&t=9PmUONglk3KoVxst-1
 
 ---
 
