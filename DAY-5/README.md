@@ -253,7 +253,9 @@ The design system created today will be used as the foundation for the next stag
 ## 📸 Design System Preview
 
 Below is the complete design system created for CraveGo.
-![Uploading ChatGPT Image Jul 26, 2026, 10_27_19 PM.png…]()
+![Uploading design system.png…]()
+
+
 
 
 ---
