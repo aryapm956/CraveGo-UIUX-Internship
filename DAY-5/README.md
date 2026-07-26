@@ -1,4 +1,4 @@
-# 🎨 Day 5 – CraveGo Design System
+<img width="1092" height="1441" alt="design system" src="https://github.com/user-attachments/assets/0f660a3b-c434-459f-aae0-9e1dd0548a43" /># 🎨 Day 5 – CraveGo Design System
 
 ## UI/UX Design Internship – Codomax Digital Solutions
 
@@ -247,13 +247,15 @@ I understood the importance of defining colors, typography, components, spacing,
 The design system created today will be used as the foundation for the next stage of my CraveGo project.
 
 ---
+## Figma Link:https://www.figma.com/design/CfKcsY4qO6kabIX1WZ27nm/Cravego_UIUX_project?node-id=98-2&t=CNyH2aiCIJeV0XcB-1
 
-
+---
 
 ## 📸 Design System Preview
 
 Below is the complete design system created for CraveGo.
-![Uploading design system.png…]()
+
+<img width="666" height="811" alt="image" src="https://github.com/user-attachments/assets/a637a435-37c1-4fcd-bbed-0d16e28ccde7" />
 
 
 
