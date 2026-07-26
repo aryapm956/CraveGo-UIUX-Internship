@@ -1,4 +1,4 @@
-<img width="1092" height="1441" alt="design system" src="https://github.com/user-attachments/assets/0f660a3b-c434-459f-aae0-9e1dd0548a43" /># 🎨 Day 5 – CraveGo Design System
+# 🎨 Day 5 – CraveGo Design System
 
 ## UI/UX Design Internship – Codomax Digital Solutions
 
