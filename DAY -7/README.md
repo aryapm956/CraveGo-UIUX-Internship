@@ -109,6 +109,8 @@ The Home, Categories, and Restaurant screens were completed and prepared for the
 
 
 <img width="1896" height="1003" alt="Screenshot 2026-07-28 194102" src="https://github.com/user-attachments/assets/e14e2826-de58-47f7-a209-a9d21af0fb09" />
+<img width="915" height="862" alt="Screenshot 2026-07-28 194122" src="https://github.com/user-attachments/assets/599b6c4d-57cf-476b-aec1-33164094fc91" />
+
 
 ## Figma
 
