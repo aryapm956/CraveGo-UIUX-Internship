@@ -72,4 +72,4 @@ Preview
 
 
 Figma Prototype:
-https://www.figma.com/design/CfKcsY4qO6kabIX1WZ27nm/Cravego_UIUX_project?node-id=172-12&t=rDL8NtEd3QchMOZr-1
+https://www.figma.com/proto/Xm6W1KsO4vK8Qv0C0Cob9p/FOOD-DELIIVERY-APP?node-id=111-24&p=f&viewport=387%2C114%2C0.08&t=QrR7yCgFkarWkzZl-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=111%3A24&page-id=3%3A12
