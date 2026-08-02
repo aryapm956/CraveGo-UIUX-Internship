@@ -55,4 +55,4 @@ Preview
 
 <img width="1075" height="862" alt="image" src="https://github.com/user-attachments/assets/edf609da-0ea1-4bdd-866c-65b72038b059" />
 
-Figma Project
+Figma Project:https://www.figma.com/design/CfKcsY4qO6kabIX1WZ27nm/Cravego_UIUX_project?node-id=179-4&t=HThS6shAA009W3Er-1
