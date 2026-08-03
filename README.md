@@ -109,24 +109,6 @@ This project was created as part of my **UI/UX Design Internship at Codomax Digi
 
 ---
 
-# 📷 Project Screenshots
-
-> *(Upload your exported screenshots below this section.)*
-
----
-
-# 🔗 Project Links
-
-### 🎨 Figma Design
-
-Paste your Figma Design Link here
-
-### 🎬 Interactive Prototype
-
-Paste your Prototype Link here
-
----
-
 # 📈 Learning Outcomes
 
 Throughout this project, I learned to:
